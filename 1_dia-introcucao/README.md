@@ -1,10 +1,13 @@
 # Dia 1: Exercícios
 
-<ul>
+<ol>
+    <li>
+        Escreva um comentário de linha única que diga, comentários faz seu código ser fácil de ler
+    </li>
 
-    Escreva um comentário de linha única que diga, comentários faz seu código ser fácil de ler
-
-    Escreva outro comentário de linha única que diga, Welcome to 30DaysOfJavaScript
+    <li>
+        Escreva outro comentário de linha única que diga, Welcome to 30DaysOfJavaScript
+    </li>
 
     Escreva um comentário de várias linhas que diga, comentários faz seu código ser fácil de ler, fácil de reusar e informátivo
 
@@ -21,5 +24,5 @@
     Declare variáveis para armazenar seu primeiro nome, ultimo nome, estado civil, país e idade em uma única linha
 
     Declare duas variáveis minhaIdade e suaIdade e atribua valores iniciais e mostre no console do navegador.
-</ul>
+</ol>
 
