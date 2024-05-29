@@ -1,13 +1,10 @@
 # Dia 1: Exercícios
 
 <ol>
-    <li>
-        Escreva um comentário de linha única que diga, comentários faz seu código ser fácil de ler
-    </li>
 
-    <li>
-        Escreva outro comentário de linha única que diga, Welcome to 30DaysOfJavaScript
-    </li>
+    Escreva um comentário de linha única que diga, comentários faz seu código ser fácil de ler
+
+    Escreva outro comentário de linha única que diga, Welcome to 30DaysOfJavaScript
 
     Escreva um comentário de várias linhas que diga, comentários faz seu código ser fácil de ler, fácil de reusar e informátivo
 
